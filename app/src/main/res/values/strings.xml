@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="crop__saving" translatable="false">Saving picture…</string>
+    <string name="crop__wait" translatable="false">Please wait…</string>
+    <string name="crop__pick_error" translatable="false">No image sources available</string>
+
+    <string name="crop__done" translatable="false">确认</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase" translatable="false">取消</string>
+
+    <string name="app_name">TestCropper</string>
+</resources>
